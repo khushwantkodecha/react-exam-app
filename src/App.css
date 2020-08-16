@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  margin-top: 20%;
+}
+.App2 {
+  text-align: center;
+  margin-top: 2%;
+}
+
+main-div {
+  background-image: url("./exam.jpg");
+}
+
+.ins {
+  text-align: center;
+}
+
+.begin-button {
+  text-align: center;
+}
+
+.Questions {
+  margin-left: 10%;
+  margin-top: 10%;
+}
+/* 
+.ButtonOne {
+  margin-left: 35%;
+  margin-top: 10%;
+} */
+
+.ButtonTwo {
+  margin-left: 80%;
+}
+
+.Result {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.Time1 {
+  margin-left: 20%;
+  margin-top: 4%;
+}
+
+.Time2 {
+  margin-left: 10%;
+  /* margin-top: 4%; */
+}
+
+.lifeline {
+  margin-left: 35%;
+  margin-right: 23%;
+  margin-top: 5%;
+}
+
+.lifelabel {
+  margin-left: 20%;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  pointer-events: all !important;
+}
